@@ -52,3 +52,12 @@
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
 }
+
+button.delete{
+  float: right;
+  position: relative;
+  font-weight: bold;
+  min-height: 100%;
+  cursor: pointer;
+  color: red;
+}
